@@ -195,8 +195,8 @@ class aXeConf():
                         alpha=0.5, edgecolor='None')
             plt.text(np.median(dx[ok]), np.median(dy[ok])+1, beam,
                      ha='center', va='center', fontsize=14)
-            print 'Beam %s, lambda=(%.1f - %.1f)' %(beam, lam[ok].min(),
-                                                    lam[ok].max())
+            print('Beam %s, lambda=(%.1f - %.1f)' %(beam, lam[ok].min(),
+                                                    lam[ok].max()))
             
         plt.grid()
         plt.xlabel(r'$\Delta x$')
