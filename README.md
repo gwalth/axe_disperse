@@ -1,3 +1,9 @@
+# NOTE
+
+This is a fork of axe_disperse.py from https://github.com/WFC3Grism/CodeDescription by G. Brammer, N. Pirzkal, R. E. Ryan
+
+Below is the original README.md:
+
 CodeDescription
 ===============
 
